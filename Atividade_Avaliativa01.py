@@ -1,4 +1,4 @@
-# Importar bibliotecas necessárias
+# Importar bibliotecas necessárias - Teste1
 import numpy as np
 # Importa a biblioteca Numpy e define um alias(as)
 import matplotlib.pyplot as plt
